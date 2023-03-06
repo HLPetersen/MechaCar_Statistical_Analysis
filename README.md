@@ -41,5 +41,5 @@ Lot 3 is the only lot that would allow rejecting the null hypothesis as its p-va
 
 <img width="486" alt="Lot3" src="https://user-images.githubusercontent.com/116980760/223030497-233cc4db-e381-4294-85bf-80967ce0017d.PNG">
 
-## Study Design: MechaCar vs Competition>
+## Study Design: MechaCar vs Competition
 A study should be conducted comparing the MechaCar with a similar type of car. The cars in the study could be divided by the company that manufactures the cars. Most consumers are interested in the lifetime cost per mile of a car. This variable is both continuous and numerical where the car manufacturer will be categorical. The best test to quantify this difference would be the one-way analysis of variance test. The null hypothesis is that the means are statistically similar and the alternative hypothesis is at least one of the means is different than the rest. The first step will be identifying a similar car to the MechaCar for comparison. Then information will need to be found on all the costs associated with each type of car (initial cost, maintenance, fuel economy, average miles over the lifetime of the car, insurance costs, repair costs, and registration fees based on an average user as a standard for both cars.)
